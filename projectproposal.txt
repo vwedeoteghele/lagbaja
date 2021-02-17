@@ -1,1 +1,7 @@
-this is a consultation about mr lagbaja versioon control system and how he can implement the system as a business so i will need your advice in the capacity as a software enginneer to come up with ideas on how to implement the solution and the business analysis and implementation cost
+ While going for a VCS, you must consider the purpose, affordability, evaluation process and use cases.
+
+Breaking down of Tasks:
+1. creation of remote repository
+2. creation of Project name (Version Control System apps), also include the tasks involved towards project execution such as To do, Work in progress, Job completion, snags, lesson learnt, documentation and the rest
+3. creation of collaborators (this to cater for Software Engineer and you as a developer to track and commit code)
+4. Project team creation (this will involve you,the businnes man & the software engineer),also you create permission for team.
